@@ -7,9 +7,9 @@ moje_imie = "Bartek"
 msg = "Hello World!"
 
 
-@app.qwertyroute('/')
+@app.route('/')
 def index():
-    output = request.args.getqwerty('output')
+    output = request.args.get('output')
     if not output:
         output = PLAIN
     return get_formatted(msg, moje_imie,
