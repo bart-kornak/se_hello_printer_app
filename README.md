@@ -91,3 +91,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
+
+Zad 5 Status Cake
+Nazwa: Moja Aplikacja test
+URL: https://floating-coast-87004.herokuapp.com/
