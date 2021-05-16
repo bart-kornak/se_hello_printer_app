@@ -102,3 +102,7 @@ Zad 6.
 
 #Dodanie badge z Status Cake
 [![Build Status](https://app.statuscake.com/button/index.php?Track=5961410&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=5961410)
+
+
+zad 8.
+Po dodaniu "PYTHONPATH=. py.test --verbose -s --cov=. --cov-report xml" tworzy sie plik .coverage i coverage.xml
