@@ -101,4 +101,4 @@ Zad 6.
 [![Build Status](https://travis-ci.com/bart-kornak/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/bart-kornak/se_hello_printer_app)
 
 #Dodanie badge z Status Cake
-[]![Build Status](https://app.statuscake.com/button/index.php?Track=5961410&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=5961410)
+[![Build Status](https://app.statuscake.com/button/index.php?Track=5961410&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=5961410)
